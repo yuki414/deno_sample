@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "getp": "deno run --allow-env --allow-net get_prefecture.ts"
+  }
+}
